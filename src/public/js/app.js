@@ -1,4 +1,3 @@
-//클론코딩
 const socket = io();
 const myFace = document.getElementById("myFace");
 const muteBtn = document.getElementById("mute");
