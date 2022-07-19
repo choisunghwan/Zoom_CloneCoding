@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 {
   "ignore":["src/public/*"],
   "exec": "babel-node src/server.js"
+=======
+{
+  "ignore":["src/public/*"],
+  "exec": "babel-node src/server.js"
+>>>>>>> d1e1cd4a36ba7e84abd1af4ebf81517df761a64d
 }
